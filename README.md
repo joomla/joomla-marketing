@@ -21,9 +21,9 @@ Other | [Any other request](https://github.com/joomla/joomla-marketing/issues/ne
 
 
 
-The aim of this repo is to manage the work of the Marketing Working Group and promote transparency across all areas of the Joomla! project.
+The aim of this repo is to manage the work of the Marketing Working Group and promote transparency across all areas of The Joomla! Project.
 
-For more information on the Marketing Working Group please visit http://docs.joomla.org/Marketing or https://volunteer.joomla.org/working-groups/marketing.
+For more information on the Marketing Working Group please visit https://docs.joomla.org/Marketing or https://volunteers.joomla.org/working-groups/marketing
 
 
 
