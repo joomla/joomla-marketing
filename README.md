@@ -1,10 +1,10 @@
 ## Request Joomla! Marketing support
 
-If you need marketing support from the MWG you can use the links below to request support, share your ideas, request imagery, etc... You do need a GitHub account, if you don't have one you can **[create](https://github.com/join)** one.
+If you need marketing support from the Marketing Team you can use the links below to request support, share your ideas, request imagery, etc. You do need a GitHub account, if you don't have one you can **[create](https://github.com/join)** one.
 
 Just a few pointers :
 
-1. **If you ask support for an event (Joomla!Day, external, JUG meeting,...) please always mention date, location, number of attendees, needed materials**
+1. **If you ask support for an event (JoomlaDay, external, JUG meeting,...) please always mention date, location, number of attendees, needed materials**
 2. Try to give us as much information as possible
 3. If deadlines are applied do not forget to mention them
 4. Provide links if possible or screenshots/images
@@ -21,9 +21,9 @@ Other | [Any other request](https://github.com/joomla/joomla-marketing/issues/ne
 
 
 
-The aim of this repo is to manage the work of the Marketing Working Group and promote transparency across all areas of The Joomla! Project.
+The aim of this repo is to manage the work of the Marketing Team and promote transparency across all areas of The Joomla! Project.You can also see an overview of requests/tasks and ideas at https://github.com/joomla/joomla-marketing/projects. 
 
-For more information on the Marketing Working Group please visit https://docs.joomla.org/Marketing or https://volunteers.joomla.org/working-groups/marketing
+For more information on the Marketing Working Group please visit https://docs.joomla.org/Marketing or https://volunteers.joomla.org/teams/marketing
 
 
 
