@@ -20,10 +20,9 @@ Copywriting | [Request copywriting](https://github.com/joomla/joomla-marketing/i
 Other | [Any other request](https://github.com/joomla/joomla-marketing/issues/new?title=[other]%20&body=Please%20describe%20how%20we%20can%20help%20you)
 
 
+The aim of this repo is to manage the work of the Marketing Team and promote transparency across all areas of The Joomla! Project.You can also see an overview of requests/tasks and ideas at https://github.com/joomla/joomla-marketing/projects 
 
-The aim of this repo is to manage the work of the Marketing Team and promote transparency across all areas of The Joomla! Project.You can also see an overview of requests/tasks and ideas at https://github.com/joomla/joomla-marketing/projects. 
-
-For more information on the Marketing Working Group please visit https://docs.joomla.org/Marketing or https://volunteers.joomla.org/teams/marketing
+For more information on the Marketing Team & how to join please visit https://docs.joomla.org/Marketing or https://volunteers.joomla.org/teams/marketing
 
 
 
