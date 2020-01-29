@@ -1,4 +1,18 @@
-## Request Joomla! Marketing support
+## Marketing Team Contributor Guide 
+
+Definitions 
+- Working Group - Also labelled as “WG”.  A sub-group or sub-team that is responsible for a particular element of Joomla marketing. Each Working Group has a leader and contributors. 
+- Projects - This is where the Working Groups coordinate their tasks. 
+- Issues - These can be thought of as tasks for each working group. When creating a new
+Issue, you will select the Working Group which it is assigned to, and utilize tags to help identify the nature of the task. 
+
+
+
+
+
+
+
+## How To Request Joomla! Marketing support
 
 If you need marketing support from the Marketing Team you can use the links below to request support, share your ideas, request imagery, etc. You do need a GitHub account, if you don't have one you can **[create](https://github.com/join)** one.
 
