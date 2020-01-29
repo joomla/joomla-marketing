@@ -2,12 +2,13 @@
 
 Definitions 
 - Working Group - Also labelled as “WG”.  A sub-group or sub-team that is responsible for a particular element of Joomla marketing. Each Working Group has a leader and contributors. 
-- Projects - This is where the Working Groups coordinate their tasks. 
+- Projects - This is where the Working Groups coordinate their tasks. Within each Project you will find columns that determine the status of each task. 
 - Issues - These can be thought of as tasks for each working group. When creating a new
 Issue, you will select the Working Group which it is assigned to, and utilize tags to help identify the nature of the task. 
 
-
-
+How to Signup to a Working Group
+1. Select the Issues tab and locate the assoicated Help Wanted issue for that Working Group. 
+2. Add a comment to that Issue indicating that you would like to signup. Be sure to include which skills you can offer and the number of hours you would like to contribute per month. 
 
 
 
